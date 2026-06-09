@@ -2,7 +2,7 @@
   "name": "Haben Goitom Gebreluul",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Haben Goitom Gebreluul,",
-  "headerTaglineThree": "a final-year Computer Engineering student",
+  "headerTaglineThree": "Computer Engineer & Software Developer",
   "headerTaglineFour": "who loves building real-world software and embedded systems.",
   "showCursor": true,
   "showBlog": false,
@@ -26,29 +26,36 @@
     }
   ],
   "projects": [
+     {
+       "id": "1",
+       "title": "TaxAssist",
+       "description": "Full-stack web application developed as a bachelor project in collaboration with Tendens AS. TaxAssist helps small Norwegian businesses manage tax reporting tasks, deadlines, reminders, and tax return preparation through a guided and user-friendly workflow.",
+       "imageSrc": "/images/landing.png",
+       "url": "https://github.com/Habu160/TaxAssist-Portfolio"
+   },
     {
-      "id": "1",
+      "id": "2",
       "title": "Campus-Cart App",
       "description": "Mobile-style application that helps students browse and manage items/services on campus, focusing on a simple and clear user experience.",
       "imageSrc": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=800&q=60",
       "url": "#"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Car Rental Console App",
       "description": "Console-based car rental system that manages vehicles, customers, and bookings using structured data and clean C# logic.",
       "imageSrc": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=60",
       "url": "https://github.com/Habu160/Prita-Renatal-car-console-App"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "LogiTruck Web App",
       "description": "Web application for managing logistics and trucks, including trips, loads, and basic reporting, built with modern web technologies.",
       "imageSrc": "https://images.unsplash.com/photo-1501700493788-fa1a4fc9fe62?auto=format&fit=crop&w=1000&q=60",
       "url": "https://github.com/Habu160/Logi-truck-web"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Microcontroller Project",
       "description": "Embedded system project using microcontrollers to read sensors and control hardware, focusing on reliability and low-level C programming.",
       "imageSrc": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=60",
@@ -77,15 +84,16 @@
       "description": "Breaking down complex problems into smaller steps and implementing efficient, maintainable solutions."
     }
   ],
-  "aboutpara": "I am a final-year Software Engineering student with a strong background in business management and several years of professional work experience. This combination gives me a unique perspective when building applications, allowing me to think both technically and strategically. I enjoy developing practical solutions, from web applications and console systems to microcontroller projects. Through my work as a teaching assistant in mathematics and computer science subjects, I have developed strong communication skills and the ability to explain complex ideas clearly. I am curious, motivated, and committed to continuous learning and improvement.",
+  "aboutpara": "I am a Computer Engineer and Software Developer with a background in Business Management and extensive professional experience across education, retail, hospitality, and public administration. My diverse background has helped me develop strong technical, analytical, communication, and problem-solving skills. I have experience developing web applications, backend systems, console applications, and embedded systems projects. Through my role as a Teaching Assistant at the University of Agder, I support students in mathematics, statistics, algorithms, and discrete mathematics, helping them strengthen their understanding of complex concepts and improve their problem-solving abilities. My combination of technical expertise, business knowledge, and practical work experience allows me to approach challenges from both technical and strategic perspectives. I am passionate about software development, continuous learning, and building solutions that create real value for users and organizations.",
   "resume": {
-  "tagline": "Final-year Computer Engineering student with a strong technical background and previous experience in business management.",
-  "description": "I am passionate about building real-world software solutions and applying both my technical and analytical skills. With experience in programming, mathematics tutoring, embedded systems, and project-based teamwork, I bring structure, communication, and problem-solving abilities to every project. My background in business management strengthens my understanding of teamwork, planning, and user-centered development.",
+  "tagline": "Computer Engineer, Software Developer, and Teaching Assistant with a strong background in business management.",
+
+"description": "I am a Computer Engineer passionate about developing practical software solutions and applying both technical and analytical skills to real-world challenges. My experience includes web development, backend systems, console applications, embedded systems, and academic mentoring. As a Teaching Assistant at the University of Agder, I support students in mathematics, statistics, algorithms, and discrete mathematics, helping them strengthen their problem-solving abilities. Combined with my background in Business Management, I bring strong communication, teamwork, planning, and user-focused thinking to every project.",
   
   "experiences": [
     {
       "id": "1",
-      "dates": "2024 – Present",
+      "dates": "2024 – 2026",
       "type": "Part-Time",
       "position": "Teaching Assistant (Mathematics & Computer Science)",
       "bullets": [
@@ -134,16 +142,17 @@
 
   "education": {
     "universityName": "Bachelor in Computer Engineering",
-    "universityDate": "2023 – Present (Expected Graduation: 2026)",
+    "universityDate": "2023 – 2026",
     "universityPara": "Focused on programming, data structures, algorithms, operating systems, networks, and embedded systems. Completed several project-based courses involving teamwork, system design, and documentation."
   },
 
   "otherEducation": [
     {
-      "title": "Bachelor in Business Management",
-      "dates": "2003 – 2007",
-      "description": "Gained a strong foundation in management, communication, and organizational thinking. Built analytical and problem-solving skills useful for software development."
-    },
+  "title": "Bachelor in Business Management",
+  "dates": "2003 – 2007",
+  "description": "Completed a Bachelor’s degree in Business Management at the College of Business and Economics in Asmara, Eritrea. Built a strong foundation in management, communication, finance, and organizational thinking, which supports structured problem-solving and teamwork in software projects."
+   },
+
     {
       "title": "Higher Education Entrance Qualification (Studiekompetanse)",
       "dates": "2021 – 2023",
@@ -158,7 +167,8 @@
     "JavaScript",
     "Python",
     "Java",
-    "SQL"
+    "SQL",
+    "PostgreSQL"
   ],
 
   "frameworks": [
